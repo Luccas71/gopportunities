@@ -9,3 +9,12 @@ Content-Type: application/json
     "link": "http://vaga.com/vaga/senior",
     "salary": 320000
 }
+
+###
+
+PUT http://localhost:8080/api/v1/opening?id=2
+Content-Type: application/json
+
+{
+    "location" : "Canada"
+}
