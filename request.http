@@ -1,0 +1,11 @@
+POST http://localhost:8080/api/v1/opening
+Content-Type: application/json
+
+{
+    "role": "Senior",
+    "company": "ultrasoft",
+    "location": "Brazil",
+    "remote": true,
+    "link": "http://vaga.com/vaga/senior",
+    "salary": 320000
+}
