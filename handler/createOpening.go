@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 
-	"github.com/Luccas71/gopportunities.git/schemas"
+	"github.com/Luccas71/gopportunities/schemas"
 	"github.com/gin-gonic/gin"
 )
 

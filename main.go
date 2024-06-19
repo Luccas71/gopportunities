@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/Luccas71/gopportunities.git/config"
-	"github.com/Luccas71/gopportunities.git/router"
+	"github.com/Luccas71/gopportunities/config"
+	"github.com/Luccas71/gopportunities/router"
 )
 
 var (
